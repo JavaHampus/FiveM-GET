@@ -1,0 +1,22 @@
+{
+  "name": "fivem-get",
+  "version": "1.0.0",
+  "description": "A node.js package that makes it easy to get live information about a FiveM Server.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaHampus/FiveM-GET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaHampus/FiveM-GET/issues"
+  },
+  "homepage": "https://github.com/JavaHampus/FiveM-GET#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
